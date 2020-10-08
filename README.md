@@ -1,1 +1,1 @@
-$env:GOOGLE_APPLICATION_CREDENTIALS="G:\nodejs-firebase\nodejs-firebase-64870-firebase-adminsdk-pqjuz-40d4662b76.json"
+asas
